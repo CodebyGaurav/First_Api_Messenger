@@ -1,0 +1,11 @@
+Welcome to API Creation
+
+Using the simple Servlet jar file for the websocket connnection.
+
+Some basic idea about Http Method
+1.GET
+2.POST
+3.PUT
+4.DELETE
+
+Basic functionality of the message exchange.
